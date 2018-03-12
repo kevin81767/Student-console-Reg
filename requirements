@@ -1,0 +1,12 @@
+structure student(id,name and marks);
+
+FUNCTION -> struct st[1];=>user can call the function many time he want;
+
+FUNCTION -> struct st[2];=>display all students
+
+FUNCTION->Sort alphabetically all students recorded
+
+FUNCTION->Search and display using id
+
+INT FUNCTION->Menu of all those menus
+
